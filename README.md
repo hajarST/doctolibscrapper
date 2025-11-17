@@ -146,4 +146,8 @@ Les contributions sont les bienvenues :
 
 Ouvrez une issue ou un pull request !
 
-
+to run project activate venv 
+```
+venv\Scripts\activate
+```
+python scrapper.py
